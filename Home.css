@@ -1,0 +1,54 @@
+.Container{
+position: absolute;
+
+    
+    left: 18%;
+    color: black;
+    background-color: #444444;
+    width: 70%;
+    height: 12%;
+    border-radius: 5px;
+    top: 10%;
+    
+}
+.Container1{
+    position: absolute;
+    
+
+    
+    left: 18%;
+    color: black;
+    background-color: #444444;
+    width: 70%;
+    height: 12%;
+    border-radius: 5px;
+    top: 80%;
+    
+}.Container2{
+    position: absolute;
+    
+    
+    left: 18%;
+    color: black;
+    background-color: #444444;
+    width: 70%;
+    height: 12%;
+    border-radius: 5px;
+    top: 60;
+    
+}
+
+
+
+.krazy{
+    
+        
+        display: flex;
+        color: #FFD700;
+        top: 20%;
+        left: 15%;
+        font-weight: bold;
+        font-size: 350%; 
+        
+    }
+    
